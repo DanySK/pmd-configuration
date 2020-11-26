@@ -91,7 +91,7 @@
         <exclude name="BeanMembersShouldSerialize" />
 		<exclude name="CloseResource" />
         <exclude name="DataflowAnomalyAnalysis" />
-		<exclude name="DoNotCallSystemExit" />
+		<exclude name="DoNotTerminateVM" />
         <exclude name="MissingBreakInSwitch" />
         <exclude name="NonStaticInitializer" />
         <exclude name="NullAssignment" />
